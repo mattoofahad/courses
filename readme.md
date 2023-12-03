@@ -1,29 +1,19 @@
-Top 5 Free Certifications to Skyrocket Your Salary from to next level:
+## This is the repository for all the course notes.
 
-1) Project Management Certification by LinkedIn:
 
-💡 Equips you to manage any project efficiently, maximizing potential.
-🎯 Great for those aiming to demonstrate comprehensive project management skills.
+1) [Project Management Foundations: Teams](https://www.linkedin.com/learning/project-management-foundations-teams-3/tools-for-successful-project-teams)
 
-2) Salesforce Associate Certification by Trailhead:
+2) [Salesforce Associate Certification by Trailhead](https://trailhead.salesforce.com/en/credentials/associate)
 
-🤝 Teaches Customer Relationship Management (CRM) and data integration.
-💼 A Salesforce certification can lead to a salary of up to 32 lakhs for professionals with at least 2 years of experience.
 
-3) Google Analytics Certification by Google:
+3) [Google Analytics Certification by Google](https://skillshop.exceedlms.com/student/path/508845-google-analytics-certification)
 
-🔍 Recommended by top MBA colleges, essential for roles in startups.
-📊 Learn to interpret web analytics for data-driven decisions.
 
-4) Digital Marketing Certificate by HubSpot:
+4) [Digital Marketing Certificate by HubSpot](https://academy.hubspot.com/courses/digital-marketing)
 
-🌐 Essential in the age of digital marketing, teaches effective ad campaigning.
-💡 Ideal for those interested in boosting online presence in startups or large corporations.
+5) [Generative AI Certification by Microsoft and LinkedIn](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin)
 
-5) Generative AI Certification by Microsoft and LinkedIn:
 
-🤖 Addresses the growing demand for AI skills.
-🧠 Demonstrates your ability to solve complex problems using AI.
+6) [Career Essentials in Software Development by Microsoft and LinkedIn](https://www.linkedin.com/learning/paths/career-essentials-in-software-development-by-microsoft-and-linkedin)
 
-🔗 Grab these certifications within three months! They're not only free but highly valuable.
-👉 Check the links in my bio. Share with friends - let's all succeed together!
+7) [Career Essentials in GitHub Professional Certificate](https://www.linkedin.com/learning/paths/career-essentials-in-github-professional-certificate)
