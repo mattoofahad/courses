@@ -1,7 +1,12 @@
 ## This is the repository for all the course notes.
 
 
-1) [Project Management Foundations: Teams](https://www.linkedin.com/learning/project-management-foundations-teams-3/tools-for-successful-project-teams)
+#### 1) [Project Management Foundations: Teams](https://www.linkedin.com/learning/project-management-foundations-teams-3/tools-for-successful-project-teams)
+<p>
+Course Repo: 
+Description:
+
+</p>
 
 2) [Salesforce Associate Certification by Trailhead](https://trailhead.salesforce.com/en/credentials/associate)
 
